@@ -1,1 +1,1 @@
-ECHO est  activado.
+console.log("Brenda");
