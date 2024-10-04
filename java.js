@@ -6,3 +6,4 @@ console.log("Rivera");
 console.log("4B");
 console.log("TIDSM");
 console.log("UTCV");
+console.log("18 años");
